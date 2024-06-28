@@ -1,2 +1,2 @@
 # html-portfolio
-This websites shows portfolio
+This websites shows my portfolio
